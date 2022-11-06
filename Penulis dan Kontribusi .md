@@ -9,14 +9,11 @@ Saya bagikan ebook ini secara gratis,
 
 - Temen-temen dapat berkontribusi dalam mengembangkan project saya (mengkoreksi typo, menambahkan artikel dan lainnya) dengan melakukan fork github milik saya :
 
-  > git@github.com:masendhy/flutter_learning_path.git
+  > git@github.com:masendhy/Hypertext-Preprocessor.git
 
 - Temen-temen diijinkan untuk menduplikasikannya, mencetak dan membagikannya kepada siapapun.
 - Temen-temen juga diijinkan untuk memodifikasi, mengubah atau membuat konten baru dengan menggunakan material dalam ebook ini, baik untuk keperluan komersial maupun tidak.
 
-```zsh
 **_Catatan_**
 
 - cantumkan sumber aslinya yaitu **masendhy** sebagai bentuk penghargaan terhadap kekayaan intelektual terhadap seseorang.
-
-```
